@@ -1,4 +1,4 @@
-# TUTORIAL 2 ADPRO
+# TUTORIAL 2 ADPRO (CI/CD & DevOps)
 #### Daffa Mohamad Fathoni (2206824161)
 #### Advanced Programming B / GEN
 
